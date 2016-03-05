@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabyrinthGameApp.CSharp.Plugins", "LabyrinthGameApp.CSharp.Plugins.csproj", "{9DD1C022-43B1-9545-1AED-EFD715FB1C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabyrinthGameApp.CSharp", "LabyrinthGameApp.CSharp.csproj", "{400D2CE9-8669-3F0F-1F57-58F2C77BA03A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabyrinthGameApp.CSharp.Editor", "LabyrinthGameApp.CSharp.Editor.csproj", "{B5E18DB8-FDA9-2FDB-517A-874F15738448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD1C022-43B1-9545-1AED-EFD715FB1C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD1C022-43B1-9545-1AED-EFD715FB1C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD1C022-43B1-9545-1AED-EFD715FB1C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD1C022-43B1-9545-1AED-EFD715FB1C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400D2CE9-8669-3F0F-1F57-58F2C77BA03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400D2CE9-8669-3F0F-1F57-58F2C77BA03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400D2CE9-8669-3F0F-1F57-58F2C77BA03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400D2CE9-8669-3F0F-1F57-58F2C77BA03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E18DB8-FDA9-2FDB-517A-874F15738448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E18DB8-FDA9-2FDB-517A-874F15738448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E18DB8-FDA9-2FDB-517A-874F15738448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E18DB8-FDA9-2FDB-517A-874F15738448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
